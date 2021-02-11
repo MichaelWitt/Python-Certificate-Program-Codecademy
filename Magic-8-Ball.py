@@ -27,9 +27,8 @@ elif random_number == 9:
 else:
   answer = "Error"
 
-if name == '':
-  print("Question: " + question)
-  print('Magic 8 Ball\'s answer: ', answer)
+if name == '' or question == '':
+  print('Please enter your name and question to receive the power of the Magic 8-Ball')
 else:
   print(name + " asks: " + question)
   print('Magic 8 Ball\'s answer: ', answer)
