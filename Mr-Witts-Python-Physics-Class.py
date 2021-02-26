@@ -1,4 +1,4 @@
-print('Mr. Wittorp\'s Python Physics Class')
+print('Mr. Witt\'s Python Physics Class')
 
 # Fahrenheit to Celsius Converter
 def f_to_c(f_temp):
