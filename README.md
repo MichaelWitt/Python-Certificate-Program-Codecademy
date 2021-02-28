@@ -1,2 +1,2 @@
 # Python-Certificate-Program
-My projects, coursework, and python practice.
+My Python projects, coursework, and practice from Codecademy's Python Certificate Program.
